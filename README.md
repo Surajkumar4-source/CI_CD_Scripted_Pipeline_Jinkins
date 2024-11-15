@@ -137,3 +137,94 @@ Script.
 *By following these steps, you will set up a fully automated Jenkins pipeline for Docker-based CI/CD workflows.*
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+
+
+## ------------------Screnshots--------------------
+1.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/11.png)
+
+2.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/22.png)
+
+
+3.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/33.png)
+
+<br>
+<br>
+
+
+4.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/44.png)
+
+<br>
+<br>
+
+5.
+<br>
+<br>
+
+
+![Alt text for image](screenshots/55.png)
+
+<br>
+<br>
+
+
+
+
+
+<br>
+<br>
+
+6.
+<br>
+<br>
+
+
+
+![Alt text for image](screenshots/66.png)
+
+
+
+
+<br>
+<br>
+
+
