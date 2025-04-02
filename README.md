@@ -1,6 +1,12 @@
 ## Jenkins Declarative Pipeline:
 
 
+Set up a Jenkins Declarative Pipeline for a Docker-based CI/CD workflow. Created a multi-stage pipeline with code fetching and Docker image building, automated triggering using SCM polling and GitHub webhooks, and ensured efficient debugging via console logs.
+
+
+
+
+
 ## Prerequisites
 *Before setting up the Pipeline job, ensure to checkout first, we’ve already implemented and understood Freestyle jobs in Jenkins.*
 
